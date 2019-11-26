@@ -1,6 +1,7 @@
 module.exports = {
   title: 'interview',
   description: 'edit by patch pan',
+  base: 'interview',
   themeConfig: {
     nav: [
       { text: 'Html', link: '/node/01base' },
